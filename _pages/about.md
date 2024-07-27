@@ -9,11 +9,9 @@ redirect_from:
 Xinhai Han is currently a Ph.D. student at the School of Oceanography, Shanghai Jiao Tong University. His primary research focuses on the integration of artificial intelligence with extreme climate analysis.
 
 His research interests mainly include:
-- Developing and applying computer vision techniques to analyze and interpret complex marine and environmental data.
-- Predicting and modeling time series data to understand and forecast changes in marine environments.
-- Emphasizing the analysis and forecasting of extreme weather events, such as tropical cyclones and storm surges, using advanced AI methodologies.
-- Utilizing remote sensing data and UAV imagery to enhance the accuracy of environmental monitoring and prediction models.
-- Applying GANs for the reconstruction and simulation of sparse environmental data to complete comprehensive analyses.
+- Utilizing GANs to improve observational data accuracy and reconstruct 2D/3D tropical cyclone structures.
+- Implementing GANs and RNNs for spatiotemporal sequence prediction of Western Pacific tropical cyclones and sea surface winds.
+- Applying GCNs to predict storm surges caused by tropical cyclones, aiding in disaster preparedness and response.
 
 ## Education
 2021.09 - Present, Ph.D. in Science, Shanghai Jiao Tong University (National Key Laboratory)
