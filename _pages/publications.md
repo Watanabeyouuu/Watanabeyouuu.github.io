@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% if site.author.orcid %}
+  <div class="wordwrap">You can also find my papers on <a href="{{site.author.orcid}}">my Orcid profile</a>.</div>
 {% endif %}
 
 First Author
