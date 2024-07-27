@@ -30,6 +30,17 @@ His research interests mainly include:
 - Tools and Platforms: VS Code, Eclipse, Jupyter Notebook, JetBrains, Windows, Linux, MacOS
 - Additional Skills: Video Editing and Shooting, Image Post-Processing, Adobe Software (Photoshop, PR, FCP)
 
+## Project Experience ##
+
+- Participated in the Oceanic Interdisciplinary Program of Shanghai Jiao Tong University - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
+
+## Academic Conferences ##
+
+- 2024.7 - IEEE International Geoscience and Remote Sensing Symposium 2024 (IGARSS 2024) Athens, Greece. *ORAL*
+- 2022.11 - 2022年中国仪器仪表学会学术年会 中国，上海. *ORAL*
+- 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX) 中国 南宁. *POSTER*
+- 2022.7 - 第五届全国海洋光学高峰论坛 线上. *POSTER*
+- 
 ## Social Activities
 
 - Minister of the Student Union and Class Organization Committee (Undergraduate)
@@ -49,16 +60,3 @@ His research interests mainly include:
   - City Mathematics Competition Third Prize
   - School Innovation Project Competition Second Prize
   - School Social Practice Award
-
-## Project Experience ##
-
-- Participated in the Oceanic Interdisciplinary Program of Shanghai Jiao Tong University - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
-
-## Academic Conferences ##
-
-- 2024.7 - IEEE International Geoscience and Remote Sensing Symposium 2024 (IGARSS 2024) Athens, Greece. *ORAL*
-- 2022.11 - 2022年中国仪器仪表学会学术年会 中国，上海. *ORAL*
-- 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX) 中国 南宁. *POSTER*
-- 2022.7 - 第五届全国海洋光学高峰论坛 线上. *POSTER*
-
-
