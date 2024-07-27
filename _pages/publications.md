@@ -18,9 +18,9 @@ First Author
 
 **Li Xiaohui**, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based Generative Adversarial Network Model for Tropical Cyclone Wind Speed Reconstruction From SAR Images."](https://ieeexplore.ieee.org/abstract/document/10504291) *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62, 1–16. (SCI Q1 IF 8.2)
 
-**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. "Enhanced Offshore Wind Speed Forecasts along the US East Coast: A Deep Learning Framework Leveraging NDBC Buoy Data."](https://spj.science.org/doi/full/10.34133/olar.0031) *Ocean-Land-Atmosphere Research*, 2023; 2: Article 0031. (Science Partner)
+**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. ["Enhanced Offshore Wind Speed Forecasts along the US East Coast: A Deep Learning Framework Leveraging NDBC Buoy Data."](https://spj.science.org/doi/full/10.34133/olar.0031) *Ocean-Land-Atmosphere Research*, 2023; 2: Article 0031. (Science Partner)
 
-**Han Xinhai**, Pan Hailang, Yang Jingsong, Lei Jun, Tao Wei. Lake surface roughness measurements from video images. In Proceedings of the AOPC 2022: Atmospheric and Environmental Optics. *SPIE*, 2023, Vol. 12561, p. 20-30 (EI Conference ORAL)
+**Han Xinhai**, Pan Hailang, Yang Jingsong, Lei Jun, Tao Wei. ["Lake surface roughness measurements from video images."](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12561/1256104/Lake-surface-roughness-measurements-from-video-images/10.1117/12.2647802.short#_=_) In Proceedings of the AOPC 2022: Atmospheric and Environmental Optics. *SPIE*, 2023, Vol. 12561, p. 20-30 (EI Conference ORAL)
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data. *IGARSS 2024*. (EI Conference ACCEPTED ORAL)
 
