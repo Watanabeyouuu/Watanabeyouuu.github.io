@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Xinhai Han"
   avatar           : "hxh.jpg"
-  bio              : ""
+  bio              : "SJTU phD Student"
   location         : "Shanghai, China"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "xinhai_han@sjtu.edu.cn"
-  researchgate     : ""
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -117,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bilibili         : "https://space.bilibili.com/17490270"
 
 
 
