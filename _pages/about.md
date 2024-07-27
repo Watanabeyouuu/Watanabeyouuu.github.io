@@ -6,7 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xinhai Han received the B.S. degree in management information system from Dalian Maritime University, Dalian, China, in 2021. He is currently pursuing the Ph.D. degree with the School of Oceanography, Shanghai Jiao Tong University, Shanghai, China.,His research interests include computer vision and spatiotemporal sequence prediction, particularly with an emphasis on the analysis and forecasting of extreme marine environmental phenomena.
+Xinhai Han is currently a Ph.D. student at the School of Oceanography, Shanghai Jiao Tong University. His primary research focuses on the integration of artificial intelligence with extreme climate analysis.
+
+His research interests mainly include:
+- Developing and applying computer vision techniques to analyze and interpret complex marine and environmental data.
+- Predicting and modeling time series data to understand and forecast changes in marine environments.
+- Emphasizing the analysis and forecasting of extreme weather events, such as tropical cyclones and storm surges, using advanced AI methodologies.
+- Utilizing remote sensing data and UAV imagery to enhance the accuracy of environmental monitoring and prediction models.
+- Applying GANs for the reconstruction and simulation of sparse environmental data to complete comprehensive analyses.
 
 ## Education
 ### Dalian Maritime University (211 & Double First-Class University)
