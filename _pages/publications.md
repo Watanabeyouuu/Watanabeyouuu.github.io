@@ -18,3 +18,7 @@ First Author
 
 Co-author
 =====
+
+Invention Patent
+=====
+  - X. Li, J. Yang, X. Han. A Method and Device for Reconstructing Synthetic Aperture Radar Typhoon Data. Application/Patent Number: CN202210841426.4
