@@ -13,7 +13,7 @@ His research interests mainly include:
 - Implementing GANs and RNNs for spatiotemporal sequence prediction of Western Pacific tropical cyclones and sea surface winds. [***News Reports*** ](https://www.sml-zhuhai.cn/info/2829.html)
 - Applying GCNs to predict storm surges caused by tropical cyclones, aiding in disaster preparedness and response.
 
-You can read more about my research on [this page](/_publications/NewsReports_TC_re.md/).
+You can read more about my research on [this page](/_publications/NewsReports_TC_re/).
 
 ## Education ##
 
