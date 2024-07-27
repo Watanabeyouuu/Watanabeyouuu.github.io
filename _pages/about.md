@@ -20,7 +20,6 @@ His research interests mainly include:
 
 2017.08 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
 - GPA: 3.84 (Rank: 1/89, Guaranteed Admission for Graduate Study)
-- Honors: Outstanding Graduate of Dalian City
 
 ## Skills
 
@@ -51,6 +50,7 @@ His research interests mainly include:
 - **Honors**:
   - Shanghai Jiao Tong University “Three Good Students”
   - Dalian Maritime University First-Class Scholarship (Three consecutive years)
+  - Outstanding Graduate of Dalian City
   - Emotional Intelligence Scholarship
   - “Excellent League Cadre”, “Three Good Students”
 
