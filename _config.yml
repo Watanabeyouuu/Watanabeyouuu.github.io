@@ -11,7 +11,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Xinhai Han"
+name                     : &name "Xinhai Han (韩心海)"
 description              : &description "personal description"
 url                      : https://Watanabeyouuu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
