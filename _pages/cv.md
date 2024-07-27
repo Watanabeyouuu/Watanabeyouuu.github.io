@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /news-reports-tc-re/
 author_profile: true
 redirect_from:
   - /resume
