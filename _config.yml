@@ -14,7 +14,7 @@ name                     : &name "Xinhai Han"
 description              : &description "This is Xinhai Han's personal resume website"
 url                      : "https://resume.hanxinhai.github.io" # 你的 GitHub Pages URL
 baseurl                  : "" # 只在本地开发时保留为空
-repository               : "Watanabeyouuu/resume.hanxinhai.github.io"
+repository               : "Watanabeyouuu/hanxinhai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
