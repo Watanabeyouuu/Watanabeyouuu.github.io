@@ -21,13 +21,22 @@ His research interests mainly include:
 2017.08 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
 - GPA: 3.84 (Rank: 1/89, Guaranteed Admission for Graduate Study)
 
-## Skills ##
+## Skills
 
-- Programming: Python, C++, Java, Matlab
-- Programming Experience: Pytorch, Tensorflow, OpenCV, Machine Learning, Deep Learning, High-Performance Computing Clusters
-- HTML/CSS/XML/JSON, git/Docker, Web Scraping, Data Cleaning, Analysis, Storage, Data Visualization
-- Tools and Platforms: VS Code, Eclipse, Jupyter Notebook, JetBrains, Windows, Linux, MacOS
-- Additional Skills: Video Editing and Shooting, Image Post-Processing, Adobe Software (Photoshop, PR, FCP)
+**Languages**: Python, C++, Java, Matlab
+
+**AI/ML**: Pytorch, Tensorflow, OpenCV
+
+**Data**: Web Scraping, Data Cleaning, Visualization
+
+**DevOps**: Git, Docker
+
+**Tools**: VS Code, Eclipse, Jupyter, JetBrains
+
+**OS**: Windows, Linux, MacOS
+
+**Media**: Video Editing, Image Processing; Adobe Photoshop, Premiere Pro, Final Cut Pro
+
 
 ## Project Experience ##
 
