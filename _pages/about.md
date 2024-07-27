@@ -42,7 +42,7 @@ His research interests mainly include:
   
 ## Social Activities ##
 
-- Minister of the Student Union and Class Organization Committee (Undergraduate)
+- Minister of the Student Union, Class Organization Committee (Undergraduate)
 - Class Life/Publicity Committee (Graduate)
 
 ## Awards and Honors ##
