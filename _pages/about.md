@@ -50,10 +50,17 @@ His research interests mainly include:
   - School Social Practice Award
 
 ## Project Experience ##
-  - Participated in Shanghai Jiao Tong University “Deep Blue Plan” Foundation Key Project - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
+
+- Participated in Shanghai Jiao Tong University “Deep Blue Plan” Foundation Key Project - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
 
 ## Academic Conferences ##
-  - Participated in the “5th National Marine Optics Summit Forum” poster presentation, July 2022
-  - Participated in the “2022 Academic Annual Conference of the China Instrument and Control Society” oral report, November 2022
-  - Participated in the “National Tropical Cyclone Science Symposium (NWTC-XX)” poster presentation, April 2023
+
+- 2022.11 - 参加“2022年中国仪器仪表学会学术年会.” ORAL
+- 
+- 2024.7 - 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024), ORAL
+- 
+- 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX).” POSTER
+- 
+- 2022.7 - “第五届全国海洋光学高峰论坛.” POSTER
+
 
