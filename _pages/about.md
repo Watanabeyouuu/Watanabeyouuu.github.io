@@ -14,6 +14,7 @@ His research interests mainly include:
 - Applying GCNs to predict storm surges caused by tropical cyclones, aiding in disaster preparedness and response.
 
 ## Education
+
 2021.09 - Present, Ph.D. in Science, Shanghai Jiao Tong University (National Key Laboratory)
 - Research Focus: Artificial Intelligence and Extreme Climate Analysis
 
@@ -51,16 +52,16 @@ His research interests mainly include:
 
 ## Project Experience ##
 
-- Participated in Shanghai Jiao Tong University “Deep Blue Plan” Foundation Key Project - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
+- Participated in the Oceanic Interdisciplinary Program of Shanghai Jiao Tong University - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
 
 ## Academic Conferences ##
 
 - 2022.11 - 参加“2022年中国仪器仪表学会学术年会.” ORAL
-- 
+  
 - 2024.7 - 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024), ORAL
-- 
+  
 - 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX).” POSTER
-- 
+  
 - 2022.7 - “第五届全国海洋光学高峰论坛.” POSTER
 
 
