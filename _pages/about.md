@@ -56,9 +56,9 @@ His research interests mainly include:
 
 ## Academic Conferences ##
 
-- 2024.7 - 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024), ORAL
-- 2022.11 - 参加“2022年中国仪器仪表学会学术年会.” ORAL
-- 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX).” POSTER
-- 2022.7 - “第五届全国海洋光学高峰论坛.” POSTER
+- 2024.7 - IEEE International Geoscience and Remote Sensing Symposium 2024 (IGARSS 2024) Athens, Greece. *ORAL*
+- 2022.11 - 2022年中国仪器仪表学会学术年会 中国，上海. *ORAL*
+- 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX) 中国 南宁. *POSTER*
+- 2022.7 - 第五届全国海洋光学高峰论坛 线上. *POSTER*
 
 
