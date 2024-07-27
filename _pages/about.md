@@ -16,48 +16,23 @@ His research interests mainly include:
 - Applying GANs for the reconstruction and simulation of sparse environmental data to complete comprehensive analyses.
 
 ## Education
-### Dalian Maritime University (211 & Double First-Class University)
-**Bachelor of Information Management and Information Systems**
-- **Graduation Date**: August 2017
-- **Honors**: Outstanding Graduate of Dalian City
-- **Rank**: 1/89
-- **GPA**: 3.84 (Top 10%, Guaranteed Admission for Graduate Study)
-- **Major Courses**: 
-  - C, C++, Java, Python, SQL
-  - Data Structures, Probability Theory, Statistics
-  - Linear Algebra, Discrete Mathematics, Operating Systems
-  - Information Systems Analysis and Design
+2021.09 - Present, Ph.D. in Science, Shanghai Jiao Tong University (National Key Laboratory)
+- Research Focus: Artificial Intelligence and Extreme Climate Analysis
 
-### Shanghai Jiao Tong University (National Key Laboratory)
-**Ph.D. Candidate in Science**
-- **Enrollment Date**: September 2021
-- **Research Areas**: 
-  - Computer Vision
-  - Spatio-Temporal Series
-  - Remote Sensing/UAV Image Processing
+2017.08 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
+- GPA: 3.84 (Top 10%, Guaranteed Admission for Graduate Study)
+- Honors: Outstanding Graduate of Dalian City
+- Rank: 1/89
 
 ## Skills
 
-### Programming Languages
-- Python, C++, Java, Matlab
+## Skills
 
-### Programming Experience
-- Pytorch, Tensorflow, OpenCV
-- Machine Learning, Deep Learning
-- High-Performance Computing Clusters
-
-### Other Skills
-- HTML/CSS/XML/JSON, git/Docker
-- Web Scraping, Data Cleaning, Analysis, Storage, Data Visualization
-
-### Tools and Platforms
-- VS Code, Eclipse, Jupyter Notebook, JetBrains
-- Familiar with Windows, Linux, MacOS
-
-### Additional Skills
-- Video Editing and Shooting
-- Image Post-Processing
-- Adobe Software (Photoshop, PR, FCP)
+- **Programming Languages**: Python, C++, Java, Matlab
+- **Programming Experience**: Pytorch, Tensorflow, OpenCV, Machine Learning, Deep Learning, High-Performance Computing Clusters
+- **Other Skills**: HTML/CSS/XML/JSON, git/Docker, Web Scraping, Data Cleaning, Analysis, Storage, Data Visualization
+- **Tools and Platforms**: VS Code, Eclipse, Jupyter Notebook, JetBrains, Windows, Linux, MacOS
+- **Additional Skills**: Video Editing and Shooting, Image Post-Processing, Adobe Software (Photoshop, PR, FCP)
 
 ## Practical Experience and Awards
 
