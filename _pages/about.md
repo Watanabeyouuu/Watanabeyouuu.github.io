@@ -13,7 +13,7 @@ His research interests mainly include:
 - Implementing GANs and RNNs for spatiotemporal sequence prediction of Western Pacific tropical cyclones and sea surface winds. [***News Reports*** ](https://www.sml-zhuhai.cn/info/2829.html)
 - Applying GCNs to predict storm surges caused by tropical cyclones, aiding in disaster preparedness and response.
  
-## Education
+## Education ##
 
 2021.09 - Present, Ph.D. in Science, Shanghai Jiao Tong University (National Key Laboratory)
 - Research Focus: Artificial Intelligence and Extreme Climate Analysis
@@ -21,7 +21,7 @@ His research interests mainly include:
 2017.08 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
 - GPA: 3.84 (Rank: 1/89, Guaranteed Admission for Graduate Study)
 
-## Skills
+## Skills ##
 
 - Programming: Python, C++, Java, Matlab
 - Programming Experience: Pytorch, Tensorflow, OpenCV, Machine Learning, Deep Learning, High-Performance Computing Clusters
@@ -39,7 +39,7 @@ His research interests mainly include:
 - 2022.11 - 2022年中国仪器仪表学会学术年会 中国·上海. *ORAL*
 - 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX) 中国·广西 南宁. *POSTER*
 - 2022.7 - 第五届全国海洋光学高峰论坛 线上. *POSTER*
-- 
+  
 ## Social Activities ##
 
 - Minister of the Student Union and Class Organization Committee (Undergraduate)
