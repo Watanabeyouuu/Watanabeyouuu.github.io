@@ -12,11 +12,8 @@ redirect_from:
 **Period**: August 2023 - November 2023
 
 **Responsibilities**:
-- Participated in the autonomous driving vehicle project
-- Completed lane line, drivable area, and vehicle joint detection
-- Converted models to onnx->rknn and deployed on RK3588 industrial computer
-- Collected and labeled data, fine-tuned models
-- Improved detection performance in specific scenarios
+- Participated in the autonomous driving vehicle project, focusing on lane line, drivable area, and vehicle joint detection. Successfully converted models to onnx->rknn and deployed them on RK3588 industrial computers.
+- Collected and labeled extensive data sets, fine-tuned models, and conducted performance improvements in specific scenarios, resulting in enhanced detection accuracy.
 
 ---
 
@@ -25,9 +22,8 @@ redirect_from:
 **Period**: June 2019 - September 2019
 
 **Responsibilities**:
-- Participated in the digital manufacturing project
-- Completed data front-end visualization
-- Involved in data collection for dark factories and defect detection
+- Contributed to the digital manufacturing project by developing and implementing front-end data visualization tools.
+- Involved in comprehensive data collection and analysis for dark factories and defect detection, improving overall project outcomes and efficiency.
 
 ---
 
@@ -36,9 +32,8 @@ redirect_from:
 **Period**: September 2020 - March 2021
 
 **Responsibilities**:
-- Joined an innovative research project team
-- Independently completed web scraping, data structure analysis
-- Designed database fields and wrote industry analysis reports
+- Joined an innovative research project team where I independently completed web scraping tasks, analyzed data structures, and designed database fields.
+- Authored detailed industry analysis reports based on gathered data, providing valuable insights for the research team and stakeholders.
 
 ---
 
@@ -47,10 +42,8 @@ redirect_from:
 **Period**: July 2020
 
 **Responsibilities**:
-- Conducted IPO audit internship
-- Wrote programs to significantly improve efficiency during background checks
-- Traveled to Tianjin and Chongqing for business trips
-- Liaised with subsidiary managers
+- Conducted an IPO audit internship, where I developed and wrote programs to significantly enhance efficiency during background checks.
+- Traveled to Tianjin and Chongqing to liaise with subsidiary managers, ensuring comprehensive audit coverage and accuracy.
 
 ---
 
@@ -59,7 +52,5 @@ redirect_from:
 **Period**: August 2020
 
 **Responsibilities**:
-- Acquired industry data through web scraping
-- Wrote data into databases, cleaned and discretized data
-- Performed analysis as needed
-- Assisted backend technical staff in the bank
+- Acquired and processed industry data through advanced web scraping techniques, subsequently writing the data into databases.
+- Cleaned, discretized, and analyzed data as required, assisting backend technical staff in optimizing the bank's data handling processes.
