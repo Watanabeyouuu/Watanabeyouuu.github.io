@@ -11,7 +11,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Xinhai Han (韩心海)"
+name                     : &name "Xinhai Han"
 description              : &description "personal description"
 url                      : https://Watanabeyouuu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinhai Han"
+  name             : "Xinhai Han  (韩心海)"
   avatar           : "hxh.jpg"
   bio              : "Artificial Intelligence, Remote Sensing, and Extreme Oceanic Climate Events such as Tropical Cyclones/Storm Surges"
   location         : "Shanghai, China"
