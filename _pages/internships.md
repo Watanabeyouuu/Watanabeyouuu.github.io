@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+{% include base_path %}
 ## Shanghai West Hongqiao Navigation Technology Co., Ltd.
 ### R&D Intern, Collaborative R&D Department
 **Period**: August 2023 - November 2023
