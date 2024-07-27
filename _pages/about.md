@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Education
+Xinhai Han received the B.S. degree in management information system from Dalian Maritime University, Dalian, China, in 2021. He is currently pursuing the Ph.D. degree with the School of Oceanography, Shanghai Jiao Tong University, Shanghai, China.,His research interests include computer vision and spatiotemporal sequence prediction, particularly with an emphasis on the analysis and forecasting of extreme marine environmental phenomena.
 
+## Education
 ### Dalian Maritime University (211 & Double First-Class University)
 **Bachelor of Information Management and Information Systems**
 - **Graduation Date**: August 2017
