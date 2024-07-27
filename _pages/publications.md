@@ -6,17 +6,19 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 {% if site.author.orcid %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.orcid}}">my Orcid profile</a>.</div>
 {% endif %}
+
 
 First Author
 ======
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. ["Dual-Level Contextual Attention Generative Adversarial Network for Reconstructing SAR Wind Speeds in Tropical Cyclones."](https://www.mdpi.com/2072-4292/15/9/2454) *Remote Sensing*, 2023, 15, 2454 (SCI Q2TOP IF 5.3)
 
-**Li Xiaohui**, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based Generative Adversarial Network Model for Tropical Cyclone Wind Speed Reconstruction From SAR Images."](https://ieeexplore.ieee.org/abstract/document/10504291) *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62, 1–16. (SCI Q1 IF 8.2)
+Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based Generative Adversarial Network Model for Tropical Cyclone Wind Speed Reconstruction From SAR Images."](https://ieeexplore.ieee.org/abstract/document/10504291) *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62, 1–16. (SCI Q1 IF 8.2)
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. ["Enhanced Offshore Wind Speed Forecasts along the US East Coast: A Deep Learning Framework Leveraging NDBC Buoy Data."](https://spj.science.org/doi/full/10.34133/olar.0031) *Ocean-Land-Atmosphere Research*, 2023; 2: Article 0031. (Science Partner)
 
@@ -35,7 +37,13 @@ Co-author
 
 Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. Retrieving Tropical Cyclone Wind Speed with Random Forest using RADARSAT and Sentinel-1A/B SAR images. *IGARSS 2024*. (EI Conference ACCEPTED)
 
-Invention Patent
+Du Yong, Yang Jingsong, Fu Shaoqiong, **Han Xinhai**, et al. 高分辨率卫星遥感精准监测PM_(2.5)空气污染源. 中国环境科学学会.第二十六届大气污染防治技术研讨会论文集. 2022:4.DOI:10.26914/c.cnkihy.2022.091578.
+
+Chinese Patent
 =====
 
-**Han Xinhai**, Li Xiaohui, Yang Jingsong. A Method and Device for Reconstructing Synthetic Aperture Radar Typhoon Data. Application/Patent Number: CN202210841426.4
+CN202211687230.0,2023-03-07. 一种合成孔径雷达台风数据的重构方法及装置. 第三发明人
+
+CN202310357180.8, 2023-07-18. 一种基于激光三角测距系统的偏态光斑定位方法. 第六发明人
+
+CN202210841426.4,2022-10-18. 一种针对光切式的基于半有序点云的三维重建方法. 第六发明人
