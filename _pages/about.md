@@ -23,17 +23,16 @@ His research interests mainly include:
 
 ## Skills
 
-- **Programming Languages**: Python, C++, Java, Matlab
-- **Programming Experience**: Pytorch, Tensorflow, OpenCV, Machine Learning, Deep Learning, High-Performance Computing Clusters
-- **Other Skills**: HTML/CSS/XML/JSON, git/Docker, Web Scraping, Data Cleaning, Analysis, Storage, Data Visualization
-- **Tools and Platforms**: VS Code, Eclipse, Jupyter Notebook, JetBrains, Windows, Linux, MacOS
-- **Additional Skills**: Video Editing and Shooting, Image Post-Processing, Adobe Software (Photoshop, PR, FCP)
+- Programming: Python, C++, Java, Matlab
+- Programming Experience: Pytorch, Tensorflow, OpenCV, Machine Learning, Deep Learning, High-Performance Computing Clusters
+- HTML/CSS/XML/JSON, git/Docker, Web Scraping, Data Cleaning, Analysis, Storage, Data Visualization
+- Tools and Platforms: VS Code, Eclipse, Jupyter Notebook, JetBrains, Windows, Linux, MacOS
+- Additional Skills: Video Editing and Shooting, Image Post-Processing, Adobe Software (Photoshop, PR, FCP)
 
 ## Social Activities
 
-- **Leadership Roles**: 
-  - Minister of the Student Union and Class Organization Committee (Undergraduate)
-  - Class Life/Publicity Committee (Graduate)
+- Minister of the Student Union and Class Organization Committee (Undergraduate)
+- Class Life/Publicity Committee (Graduate)
 
 ## Awards and Honors
 
