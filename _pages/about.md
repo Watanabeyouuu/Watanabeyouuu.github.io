@@ -20,9 +20,8 @@ His research interests mainly include:
 - Research Focus: Artificial Intelligence and Extreme Climate Analysis
 
 2017.08 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
-- GPA: 3.84 (Top 10%, Guaranteed Admission for Graduate Study)
+- GPA: 3.84 (Rank: 1/89, Guaranteed Admission for Graduate Study)
 - Honors: Outstanding Graduate of Dalian City
-- Rank: 1/89
 
 ## Skills
 
