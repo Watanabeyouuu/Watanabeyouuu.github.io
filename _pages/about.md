@@ -23,17 +23,11 @@ His research interests mainly include:
 
 ## Skills
 
-**Languages**: Python, C++, Java, Matlab
+**Languages**: Python, C++, Java, Matlab  **AI/ML**: Pytorch, Tensorflow, OpenCV
 
-**AI/ML**: Pytorch, Tensorflow, OpenCV
+**Data**: Web Scraping, Data Cleaning, Visualization  **DevOps**: Git, Docker
 
-**Data**: Web Scraping, Data Cleaning, Visualization
-
-**DevOps**: Git, Docker
-
-**Tools**: VS Code, Eclipse, Jupyter, JetBrains
-
-**OS**: Windows, Linux, MacOS
+**Tools**: VS Code, Eclipse, Jupyter, JetBrains  **OS**: Windows, Linux, MacOS
 
 **Media**: Video Editing, Image Processing; Adobe Photoshop, Premiere Pro, Final Cut Pro
 
