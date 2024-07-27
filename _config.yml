@@ -12,7 +12,7 @@ title                    : "Xinhai Han's Resume"
 title_separator          : "-"
 name                     : &name "Xinhai Han"
 description              : &description "This is Xinhai Han's personal resume website"
-url                      : "https://resume.hanxinhai.github.io" # 你的 GitHub Pages URL
+url                      : "https://hanxinhai.github.io" # 你的 GitHub Pages URL
 baseurl                  : "" # 只在本地开发时保留为空
 repository               : "Watanabeyouuu/hanxinhai.github.io"
 
