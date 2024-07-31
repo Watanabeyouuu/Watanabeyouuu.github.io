@@ -29,6 +29,8 @@ Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based G
 
 ## Co-author
 
+**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. Geo-spatial Information Science (Minor Revision Uploaded)
+
 Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. Retrieving Tropical Cyclone Wind Speed with Random Forest using RADARSAT and Sentinel-1A/B SAR images. *IGARSS 2024*. (EI Conference ACCEPTED)
 
 Du Yong, Yang Jingsong, Fu Shaoqiong, **Han Xinhai**, et al. 高分辨率卫星遥感精准监测PM_(2.5)空气污染源. 中国环境科学学会.第二十六届大气污染防治技术研讨会论文集. 2022:4.DOI:10.26914/c.cnkihy.2022.091578.
