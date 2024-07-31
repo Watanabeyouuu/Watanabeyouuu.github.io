@@ -21,7 +21,7 @@ Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based G
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data. *IGARSS 2024*. (EI Conference ACCEPTED ORAL)
 
-**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Multi-Station Water Level Forecasting Using Advanced Graph Convolutional Networks with Adversarial Learning. *Geo-spatial Information Science* (Under Review)
+**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Multi-Station Water Level Forecasting Using Advanced Graph Convolutional Networks with Adversarial Learning. *Geo-spatial Information Science* (Minor Revision Uploaded)
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. *Geo-spatial Information Science* (Under Review)
 
@@ -29,7 +29,7 @@ Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based G
 
 ## Co-author
 
-**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. Geo-spatial Information Science (Minor Revision Uploaded)
+Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. 2024: A Generative Adversarial Network with Attention Spatiotemporal Mechanism for Tropical Cyclone Forecasts. Advances in Atmospheric Sciences (ACCEPTED).
 
 Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. Retrieving Tropical Cyclone Wind Speed with Random Forest using RADARSAT and Sentinel-1A/B SAR images. *IGARSS 2024*. (EI Conference ACCEPTED)
 
