@@ -21,8 +21,6 @@ Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based G
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data. In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 6372-6375). IEEE (EI Conference ORAL)
 
-Han, X., Li, X., Yang, J., Tao, W., & Wang, Y. (2024, July). Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data. In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 6372-6375). IEEE.
-
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Multi-Station Water Level Forecasting Using Advanced Graph Convolutional Networks with Adversarial Learning. *Geo-spatial Information Science* (Minor Revision Uploaded)
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. *Geo-spatial Information Science* (Under Review)
