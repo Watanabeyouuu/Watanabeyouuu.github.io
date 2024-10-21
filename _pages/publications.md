@@ -31,7 +31,7 @@ Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based G
 
 Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. 2024: A Generative Adversarial Network with Attention Spatiotemporal Mechanism for Tropical Cyclone Forecasts. Advances in Atmospheric Sciences (ACCEPTED).
 
-Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. Retrieving Tropical Cyclone Wind Speed with Random Forest using RADARSAT and Sentinel-1A/B SAR images. *IGARSS 2024*. (EI Conference ACCEPTED)
+Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. ["Retrieving Tropical Cyclone Wind Speed with Random Forest using RADARSAT and Sentinel-1A/B SAR images."](https://ieeexplore.ieee.org/abstract/document/10641454) In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 6795-6797). IEEE (EI Conference POSTER)
 
 Du Yong, Yang Jingsong, Fu Shaoqiong, **Han Xinhai**, et al. 高分辨率卫星遥感精准监测PM_(2.5)空气污染源. 中国环境科学学会.第二十六届大气污染防治技术研讨会论文集. 2022:4.DOI:10.26914/c.cnkihy.2022.091578.
 
