@@ -10,6 +10,13 @@ redirect_from:
 
 ## Internships
 
+### Shanghai Artificial Intelligence Laboratory (2024.11 - Present)
+
+Large Model Algorithm Intern
+- Conducted training / fine-tuning on multimodal large models (InternVL2-26B) and vision models (YOLO, ViT).
+- Developed and implemented construction site safety detection solutions.
+- Optimized data collection and annotation workflows, completed on-site data collection, annotation documentation, and analysis of experimental results.
+    
 ### Shanghai West Hongqiao Navigation Technology Co., Ltd. (2023.8 - 2023.11)
 
 R&D Intern, Collaborative R&D Department
