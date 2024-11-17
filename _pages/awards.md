@@ -1,4 +1,13 @@
-### Leadership Roles
+---
+layout: archive
+#title: "Practice & Awards"
+permalink: /awards/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+## Leadership Roles ##
 - **Commissary in charge of publicity/general affairs**  
   _Sep 2021 -- Jun 2022_
 - **Minister of the Student Union**  
@@ -6,7 +15,7 @@
 - **Commissary in charge of organization**  
   _Sep 2017 -- Jun 2021_
 
-### Awards
+## Awards ##
 - **"Guo Xie Birong Scholarship" Excellence Award** (Top 3%), Shanghai Jiao Tong University  
   _2024_
 - **"Three Good Student" Award**, Shanghai Jiao Tong University  
@@ -22,7 +31,7 @@
 - **"Three Good Student" Award**, Dalian Maritime University  
   _2017_
 
-### Competition Achievements
+## Competition Achievements ##
 - **Second Prize** in the University Innovation Project Competition  
   _Jan 2019_
 - **Third Prize** in the City Mathematics Competition  
