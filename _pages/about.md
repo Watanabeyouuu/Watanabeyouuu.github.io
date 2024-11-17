@@ -16,11 +16,11 @@ His research interests mainly include:
 
 ## Education
 
-**Shanghai Jiao Tong University (State Key Laboratory)**, Shanghai, China, *09/2021 – 06/2026*
+Shanghai Jiao Tong University (State Key Laboratory), Shanghai, China, *09/2021 – 06/2026*
 - *Direct Ph.D. Program in Science*
 - *The Guo Xie Birong Scholarship for academic excellence (Top 7/230) among all Ph.D. students in the department.*
 
-**Dalian Maritime University (211 & Double First-Class University)**, Dalian, China *09/2017 – 06/2021*
+Dalian Maritime University (211 & Double First-Class University), Dalian, China *09/2017 – 06/2021*
 - *B.Sc. in Management Information Systems, Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*
 - *Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems*
 
@@ -35,9 +35,9 @@ His research interests mainly include:
 
 ## Invited Presentaions
 
-**IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.**
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.
 
-*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*
+<small>*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*<small>
 
 **Academic Conference of China Instrument and Control Society. Shanghai, China, 2022.**
 
