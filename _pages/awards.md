@@ -10,7 +10,7 @@ redirect_from:
 
 ## Leadership Roles
 - Commissary in charge of publicity/general affairs
-  _Sep 2021_ -- _Jun 2022_
+  _Sep 2021 -- Jun 2022_
 - Minister of the Student Union
   _Sep 2018 -- Jun 2019_
 - Commissary in charge of organization
