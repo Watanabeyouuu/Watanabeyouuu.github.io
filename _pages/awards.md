@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Leadership Roles ##
+## Leadership Roles
 - **Commissary in charge of publicity/general affairs**  
   _Sep 2021 -- Jun 2022_
 - **Minister of the Student Union**  
