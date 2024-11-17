@@ -10,7 +10,7 @@ redirect_from:
 
 ## Internships
 
-### Shanghai Artificial Intelligence Laboratory (2024.10 - Present)
+### Shanghai Artificial Intelligence Laboratory *(10/2024 - Present)*
 
 Large Model Algorithm Intern
 - Conducted training / fine-tuning on multimodal large models (InternVL2-26B) and vision models (YOLO, ViT).
