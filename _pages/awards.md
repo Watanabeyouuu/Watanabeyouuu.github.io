@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
 ## Leadership Roles
 - Commissary in charge of publicity/general affairs
