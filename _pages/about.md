@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xinhai Han is currently a Ph.D. student at the School of Oceanography, Shanghai Jiao Tong University. His primary research focuses on the integration of artificial intelligence with extreme climate analysis...
+Xinhai Han is currently a Ph.D. student at the School of Oceanography, Shanghai Jiao Tong University. His primary research focuses on the integration of artificial intelligence with extreme climate analysis.
 
 His research interests mainly include:
 - Utilizing GANs to improve observational data accuracy and reconstruct 2D/3D tropical cyclone structures.  [***News Reports***](https://soed.sio.org.cn/index_kydt/4722.html)
