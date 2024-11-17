@@ -9,15 +9,22 @@ redirect_from:
 {% include base_path %}
 
 ## Leadership Roles
-- _Sep 2021 -- Jun 2022_ Commissary in charge of publicity/general affairs
-- _Sep 2018 -- Jun 2019_ Minister of the Student Union
-- _Sep 2017 -- Jun 2021_ Commissary in charge of organization* 
+- Commissary in charge of publicity/general affairs
+  _Sep 2021 -- Jun 2022_
+- Minister of the Student Union
+  _Sep 2018 -- Jun 2019_
+- Commissary in charge of organization* 
+  _Sep 2017 -- Jun 2021_
 
 ## Awards
-- _2024_ "Guo Xie Birong Scholarship" Excellence Award (Top 3%), Shanghai Jiao Tong University  
-- _2023_ "Three Good Student" Award, Shanghai Jiao Tong University  
-- _2018, 2019, 2020_ First Prize Scholarship (Top 3%, Three Consecutive Years), Dalian Maritime University  
-- _2019_ Emotional Intelligence Scholarship: Self-Reliance Award, Dalian Maritime University  
+- "Guo Xie Birong Scholarship" Excellence Award (Top 3%), Shanghai Jiao Tong University  
+  _2024_
+- "Three Good Student" Award, Shanghai Jiao Tong University  
+  _2023_
+- First Prize Scholarship (Top 3%, Three Consecutive Years), Dalian Maritime University  
+  _2018, 2019, 2020_
+- Emotional Intelligence Scholarship: Self-Reliance Award, Dalian Maritime University  
+  _2019_
 - Emotional Intelligence Scholarship: Science Activity Award, Dalian Maritime University  
   _2018_
 - Excellent Student Leader, Dalian Maritime University  
