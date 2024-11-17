@@ -13,7 +13,7 @@ redirect_from:
   _Sep 2021 -- Jun 2022_
 - Minister of the Student Union
   _Sep 2018 -- Jun 2019_
-- Commissary in charge of organization* 
+- Commissary in charge of organization
   _Sep 2017 -- Jun 2021_
 
 ## Awards
