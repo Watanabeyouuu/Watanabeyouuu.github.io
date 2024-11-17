@@ -37,8 +37,8 @@ Dalian Maritime University (211 & Double First-Class University), Dalian, China 
 
 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.
 
-<small>*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*</small>
+- <small>*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*</small>
 
 Academic Conference of China Instrument and Control Society. Shanghai, China, 2022.
 
-<small>*Lake surface roughness measurements from video images.*</small>
+- <small>*Lake surface roughness measurements from video images.*</small>
