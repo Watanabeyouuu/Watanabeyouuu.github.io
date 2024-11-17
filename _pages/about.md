@@ -15,7 +15,7 @@ His research interests mainly include:
 - Implementing GANs and RNNs for spatiotemporal sequence prediction of Western Pacific tropical cyclones and sea surface winds. [***News Reports*** ](https://www.sml-zhuhai.cn/info/2829.html)
 - Applying GCNs to predict storm surges caused by tropical cyclones, aiding in disaster preparedness and response.
 
-## Education ##
+## Education
 
 **Shanghai Jiao Tong University (State Key Laboratory)**, Shanghai, China, *09/2021 – 06/2026*
 - *Direct Ph.D. Program in Science*
@@ -25,7 +25,7 @@ His research interests mainly include:
 - *B.Sc. in Management Information Systems, Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*
 - *Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems*
 
-## Skills ##
+## Skills
 - Programming Languages: Python, C++, Java, Matlab.
 - Deep Learning Frameworks: Proficient in PyTorch, TensorFlow, with experience in computer vision tasks such as segmentation, detection, and restoration using generative adversarial networks (GANs).
 - Model Development \& Deployment: Skilled in spatiotemporal sequence forecasting, multimodal large model fine-tuning, and deploying models using Docker and TensorRT.
@@ -34,7 +34,7 @@ His research interests mainly include:
 - Platforms \& Environments: Familiar with VS Code, Eclipse, Jupyter Notebook, JetBrains IDEs, and proficient in Windows, Linux, and MacOS operating systems.
 - Media \& Graphics: Experienced in video editing, image post-processing, and design using Adobe Photoshop, Premiere Pro, and Final Cut Pro.
 
-## Invited Presentaions ##
+## Invited Presentaions
 
 **IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.**
 
