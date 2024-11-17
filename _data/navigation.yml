@@ -8,3 +8,6 @@ main:
     
   - title: "Hobby"
     url: /hobby/
+
+  - title: "Awards"
+    url: /awards/
