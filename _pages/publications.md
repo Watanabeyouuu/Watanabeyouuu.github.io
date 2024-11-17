@@ -23,9 +23,9 @@ Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based G
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Multi-Station Water Level Forecasting Using Advanced Graph Convolutional Networks with Adversarial Learning. *Geo-spatial Information Science* (Minor Revision Uploaded)
 
-**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. *Geo-spatial Information Science* (Under Review)
+**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. *Geo-spatial Information Science* (Revision Uploaded)
 
-**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. From Sparse Data to Full Storms: 3D Tropical Cyclone Reconstruction through Adversarial Learning. *Geophysical Research Letters* (Under Review)
+**Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. From Sparse Data to Full Storms: 3D Tropical Cyclone Reconstruction through Adversarial Learning. *Geophysical Research Letters* (Revision Uploaded)
 
 ## Co-author
 
@@ -33,16 +33,16 @@ Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. 2024: A Generative Adversarial
 
 Li Xiaohui, **Han Xinhai**, Yang Jingsong, et al. ["Retrieving Tropical Cyclone Wind Speed with Random Forest using RADARSAT and Sentinel-1A/B SAR images."](https://ieeexplore.ieee.org/abstract/document/10641454) In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 6795-6797). IEEE (EI Conference POSTER)
 
-Du Yong, Yang Jingsong, Fu Shaoqiong, **Han Xinhai**, et al. 高分辨率卫星遥感精准监测PM_(2.5)空气污染源. 中国环境科学学会.第二十六届大气污染防治技术研讨会论文集. 2022:4.DOI:10.26914/c.cnkihy.2022.091578.
+Du Yong, Yang Jingsong, Fu Shaoqiong, **Han Xinhai**, et al. High-Resolution Satellite Remote Sensing for Accurate Monitoring of PM\(_{2.5}\) Air Pollution Sources. Proceedings of the 26th Atmospheric Pollution Prevention Technology Seminar, Chinese Society for Environmental Sciences, 2022:4. DOI:10.26914/c.cnkihy.2022.091578.
 
 ## Chinese Patent
 
-CN202211687230.0,2023-03-07. 一种合成孔径雷达台风数据的重构方法及装置. 第三发明人
+CN202211687230.0: A Reconstruction Method and Device for Typhoon Data Using Synthetic Aperture Radar \textbf{\#3}
 
-CN202310357180.8, 2023-07-18. 一种基于激光三角测距系统的偏态光斑定位方法. 第六发明人
+CN202310357180.8: A Skewed Light Spot Positioning Method Based on a Laser Triangulation System \textbf{\#6}
 
-CN202210841426.4,2022-10-18. 一种针对光切式的基于半有序点云的三维重建方法. 第六发明人
-
+CN202210841426.4: A 3D Reconstruction Method for Light Sectioning Based on Semi-Ordered Point Clouds \textbf{\#6}
+    
 {% if site.author.orcid %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.orcid}}">my Orcid profile</a>.</div>
 {% endif %}
