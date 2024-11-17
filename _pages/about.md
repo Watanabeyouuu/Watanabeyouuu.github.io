@@ -16,15 +16,11 @@ His research interests mainly include:
 ## Education ##
 
 **Shanghai Jiao Tong University (State Key Laboratory)**, Shanghai, China, *09/2021 – 06/2026*
-
 - *Direct Ph.D. Program in Science*
-
 - *The Guo Xie Birong Scholarship for academic excellence (Top 7/230) among all Ph.D. students in the department.*
 
 **Dalian Maritime University (211 & Double First-Class University)**, Dalian, China *09/2017 – 06/2021*
-
 - *B.Sc. in Management Information Systems, Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*
-
 - *Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems*
 
 ## Skills ##
