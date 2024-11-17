@@ -186,6 +186,12 @@ collections:
   internships:
     output: true
     permalink: /:collection/:path/
+  hobby:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
