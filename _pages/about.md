@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Research Interests
-
 Xinhai Han is currently a Ph.D. student at the School of Oceanography, Shanghai Jiao Tong University. His primary research focuses on the integration of artificial intelligence with extreme climate analysis.
 
 His research interests mainly include:
