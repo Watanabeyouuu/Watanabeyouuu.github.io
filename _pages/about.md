@@ -22,7 +22,7 @@ His research interests mainly include:
 - *Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*
 - Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems
 
-## Skills
+## Skills ##
 
 **Languages**: Python, C++, Java, Matlab  **AI/ML**: Pytorch, Tensorflow, OpenCV
 
@@ -50,7 +50,7 @@ His research interests mainly include:
 
 Participated in the Oceanic Interdisciplinary Program of Shanghai Jiao Tong University - Sea Surface Dynamic Roughness Active-Passive Optical 3D Measurement System
 
-## Conference and Workshop Presentations ##
+## Invited Presentaions ##
 
 2024.7 - IEEE International Geoscience and Remote Sensing Symposium 2024 (IGARSS 2024) Athens, Greece. *ORAL*
 
@@ -59,6 +59,13 @@ Participated in the Oceanic Interdisciplinary Program of Shanghai Jiao Tong Univ
 2023.4 - 参加“全国热带气旋科学讨论会 (NWTC-XX) 中国·广西 南宁. *POSTER*
 
 2022.7 - 第五届全国海洋光学高峰论坛 线上. *POSTER*
+
+**IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.**
+
+*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*
+
+**Academic Conference of China Instrument and Control Society. Shanghai, China, 2022.**
+Lake surface roughness measurements from video images.*
   
 ## Social Activities ##
 
