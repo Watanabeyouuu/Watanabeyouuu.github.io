@@ -1,11 +1,12 @@
 ---
 layout: archive
-#title: "Publications"
-permalink: /publications/
+#title: "Hobby"
+permalink: /hobby/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
 
 {% include base_path %}
 
