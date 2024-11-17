@@ -15,11 +15,12 @@ His research interests mainly include:
 
 ## Education ##
 
-2021.09 - Present, Ph.D. in Science, Shanghai Jiao Tong University (National Key Laboratory)
-- Research Focus: Artificial Intelligence and Extreme Climate Analysis
+2021.09 - Present, Shanghai Jiao Tong University (State Key Laboratory), Shanghai, China
+- *The Guo Xie Birong Scholarship for academic excellence (Top 7/230) among all Ph.D. students in the department.*
 
-2017.08 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
-- GPA: 3.84 (Rank: 1/89, Guaranteed Admission for Graduate Study)
+2017.09 - 2021.06, B.S. in Information Management and Information Systems, Dalian Maritime University (211 & Double First-Class University)
+- *Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*
+- Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems
 
 ## Skills
 
