@@ -15,7 +15,7 @@ His research interests mainly include:
 
 ## Education ##
 
-**Shanghai Jiao Tong University (State Key Laboratory), Shanghai, China, *09/2021 – 06/2026*
+**Shanghai Jiao Tong University (State Key Laboratory)**, Shanghai, China, *09/2021 – 06/2026*
 
 - *Direct Ph.D. Program in Science*
 
@@ -65,15 +65,39 @@ Participated in the Oceanic Interdisciplinary Program of Shanghai Jiao Tong Univ
 
 *Lake surface roughness measurements from video images.*
   
-## Social Activities ##
+## Practice & Awards
 
-Minister of the Student Union, Class Organization Committee (Undergraduate)
+### Leadership Roles
+- **Commissary in charge of publicity/general affairs**  
+  _Sep 2021 -- Jun 2022_
+- **Minister of the Student Union**  
+  _Sep 2018 -- Jun 2019_
+- **Commissary in charge of organization**  
+  _Sep 2017 -- Jun 2021_
 
-Class Life/Publicity Committee (Graduate)
+### Awards
+- **"Guo Xie Birong Scholarship" Excellence Award** (Top 3%), Shanghai Jiao Tong University  
+  _2024_
+- **"Three Good Student" Award**, Shanghai Jiao Tong University  
+  _2023_
+- **First Prize Scholarship** (Top 3%, Three Consecutive Years), Dalian Maritime University  
+  _2018, 2019, 2020_
+- **Emotional Intelligence Scholarship: Self-Reliance Award**, Dalian Maritime University  
+  _2019_
+- **Emotional Intelligence Scholarship: Science Activity Award**, Dalian Maritime University  
+  _2018_
+- **Excellent Student Leader**, Dalian Maritime University  
+  _2017, 2018_
+- **"Three Good Student" Award**, Dalian Maritime University  
+  _2017_
 
-## Awards and Honors ##
-
-**Honors**: Shanghai Jiao Tong University “Three Good Students”; Dalian Maritime University First-Class Scholarship (Three consecutive years); Outstanding Graduate of Dalian City; Emotional Intelligence Scholarship; “Excellent League Cadre”; “Three Good Students”.
-
-**Competitions**: National Undergraduate Mathematical Contest in Modeling; School Mathematics Competition First Prize; City Mathematics Competition Third Prize; School Innovation Project Competition Second Prize; School Social Practice Award.
+### Competition Achievements
+- **Second Prize** in the University Innovation Project Competition  
+  _Jan 2019_
+- **Third Prize** in the City Mathematics Competition  
+  _Jun 2018_
+- **Provincial Outstanding Volunteer Award**  
+  _Jul 2018_
+- **First Prize** in the University Mathematics Competition  
+  _May 2017_
 
