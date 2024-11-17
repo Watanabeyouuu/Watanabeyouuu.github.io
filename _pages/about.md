@@ -32,6 +32,19 @@ His research interests mainly include:
 
 **Media**: Video Editing, Image Processing; Adobe Photoshop, Premiere Pro, Final Cut Pro
 
+**Programming Languages:** Python, C++, Java, Matlab.
+
+**Deep Learning Frameworks:** Proficient in PyTorch, TensorFlow, with experience in computer vision tasks such as segmentation, detection, and restoration using generative adversarial networks (GANs).
+
+** Model Development \& Deployment:** Skilled in spatiotemporal sequence forecasting, multimodal large model fine-tuning, and deploying models using Docker and TensorRT.
+
+**High-Performance Computing:** Practical experience with HPC clusters for model training and optimization.
+
+** Data Processing:** Experienced in web scraping, data cleaning, analysis, database design, and data visualization using HTML, CSS, XML, JSON, and related tools.
+
+**Platforms \& Environments:** Familiar with VS Code, Eclipse, Jupyter Notebook, JetBrains IDEs, and proficient in Windows, Linux, and MacOS operating systems.
+
+**Media \& Graphics:** Experienced in video editing, image post-processing, and design using Adobe Photoshop, Premiere Pro, and Final Cut Pro.
 
 ## Project Experience ##
 
