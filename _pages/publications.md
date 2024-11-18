@@ -37,11 +37,11 @@ Du Yong, Yang Jingsong, Fu Shaoqiong, **Han Xinhai**, et al. High-Resolution Sat
 
 ## Chinese Patent
 
-CN202211687230.0: A Reconstruction Method and Device for Typhoon Data Using Synthetic Aperture Radar \textbf{\#3}
+CN202211687230.0: A Reconstruction Method and Device for Typhoon Data Using Synthetic Aperture Radar *#3*
 
-CN202310357180.8: A Skewed Light Spot Positioning Method Based on a Laser Triangulation System \textbf{\#6}
+CN202310357180.8: A Skewed Light Spot Positioning Method Based on a Laser Triangulation System *#6*
 
-CN202210841426.4: A 3D Reconstruction Method for Light Sectioning Based on Semi-Ordered Point Clouds \textbf{\#6}
+CN202210841426.4: A 3D Reconstruction Method for Light Sectioning Based on Semi-Ordered Point Clouds *#6*
     
 {% if site.author.orcid %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.orcid}}">my Orcid profile</a>.</div>
