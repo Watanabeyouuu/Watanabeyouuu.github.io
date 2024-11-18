@@ -21,8 +21,8 @@ Shanghai Jiao Tong University (State Key Laboratory), Shanghai, China, *09/2021 
 - <span style="font-size: 90%;">The Guo Xie Birong Scholarship for academic excellence (Top 7/230) among all Ph.D. students in the department.</span>
 
 Dalian Maritime University (211 & Double First-Class University), Dalian, China *09/2017 – 06/2021*
-- <small>*B.Sc. in Management Information Systems, Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*</small>
-- <small>Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems</small>
+- <span style="font-size: 90%;">*B.Sc. in Management Information Systems, Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*</span>
+- <span style="font-size: 90%;">Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems</span>
 
 ## Skills
 - Programming Languages: C, C++, Python, Java, Matlab, SQL
@@ -37,8 +37,8 @@ Dalian Maritime University (211 & Double First-Class University), Dalian, China 
 
 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.
 
-- <small>*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*</small>
+- <span style="font-size: 90%;">*Evaluating FY-3E GNOS-II Global Wind Product for Nearshore and Open Ocean: A Study Utilizing NDBC and TAO/TRITON Buoy Data.*</span>
 
 Academic Conference of China Instrument and Control Society. Shanghai, China, 2022.
 
-- <small>*Lake surface roughness measurements from video images.*</small>
+- <span style="font-size: 90%;">*Lake surface roughness measurements from video images.*</span>
