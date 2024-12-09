@@ -15,7 +15,7 @@ redirect_from:
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. Evaluation and Deep Learning-Based Calibration of Nearshore Sea Surface Wind Speeds from FY-3E GNOS-II and TIANMU Missions. *Geo-spatial Information Science* (JCR Q1 IF4.4 ACCEPTED)
 
-Li Xiaohui, **Han Xinhai** (Co-First Author), et al. ["Transfer Learning-Based Generative Adversarial Network Model for Tropical Cyclone Wind Speed Reconstruction From SAR Images."](https://ieeexplore.ieee.org/abstract/document/10504291) *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62, 1–16. (JCR Q1 IF8.2)
+Li Xiaohui, **Han Xinhai (Co-First Author)**, et al. ["Transfer Learning-Based Generative Adversarial Network Model for Tropical Cyclone Wind Speed Reconstruction From SAR Images."](https://ieeexplore.ieee.org/abstract/document/10504291) *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62, 1–16. (JCR Q1 IF8.2)
 
 **Han Xinhai**, Li Xiaohui, Yang Jingsong, et al. ["Enhanced Offshore Wind Speed Forecasts along the US East Coast: A Deep Learning Framework Leveraging NDBC Buoy Data."](https://spj.science.org/doi/full/10.34133/olar.0031) *Ocean-Land-Atmosphere Research*, 2023; 2: Article 0031. (Science Partner)
 
