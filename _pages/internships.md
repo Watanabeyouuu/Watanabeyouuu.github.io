@@ -11,7 +11,7 @@ redirect_from:
 ## Internships
 
 ### Shanghai Artificial Intelligence Laboratory _(10/2024 - Present)_
-_Large Model Algorithm Intern_
+_Multimodal Large Language Model Algorithm Intern_
 - Conducted training / fine-tuning on multimodal large models (InternVL2-26B) and vision models (YOLO, ViT).
 - Developed and implemented construction site safety detection solutions.
 - Optimized data collection and annotation workflows, completed on-site data collection, annotation documentation, and analysis of experimental results.
