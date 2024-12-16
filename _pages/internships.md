@@ -35,8 +35,3 @@ _Intelligent Manufacturing Institute Intern_
 _Audit Intern_
 - Conducted an IPO audit internship, developed and wrote programs to significantly enhance efficiency during background checks.
 - Traveled to Tianjin and Chongqing to liaise with subsidiary managers, ensuring comprehensive audit coverage and accuracy.
-
-### Bank of Communications Branch _(08/2020)_
-_Data Analyst_
-- Acquired and processed industry data through advanced web scraping techniques, subsequently writing the data into databases.
-- Cleaned, discretized, and analyzed data as required, assisting backend technical staff in optimizing the bank's data handling processes.
