@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-## Badminton
+Enjoys playing badminton, swimming, photography, and playing the piano.
