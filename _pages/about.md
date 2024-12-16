@@ -23,15 +23,6 @@ Dalian Maritime University (211 & Double First-Class University), Dalian, China 
 - <span style="font-size: 90%;">*B.Sc. in Management Information Systems, Professional comprehensive ranking: 1/89, Excellent Graduates in Dalian*</span>
 - <span style="font-size: 90%;">Main Courses: C, C++, Java, Python, SQL, Data structures, Statistics, Discrete mathematics, Operating systems</span>
 
-## Skills
-- Programming Languages: C, C++, Python, Java, Matlab, SQL
-- Deep Learning Frameworks: Proficient in PyTorch, TensorFlow, with experience in computer vision tasks such as segmentation, detection, and restoration using generative adversarial networks (GANs).
-- Model Development & Deployment: Skilled in spatiotemporal sequence forecasting, multimodal large model fine-tuning, and deploying models using Docker and TensorRT.
-- High-Performance Computing: Practical experience with HPC clusters for model training and optimization.
-- Data Processing: Experienced in web scraping, data cleaning, analysis, database design, and data visualization using HTML, CSS, XML, JSON, and related tools.
-- Platforms & Environments: Familiar with VS Code, Eclipse, Jupyter Notebook, JetBrains IDEs, and proficient in Windows, Linux, and MacOS operating systems.
-- Media & Graphics: Experienced in video editing, image post-processing, and design using Adobe Photoshop, Premiere Pro, and Final Cut Pro.
-
 ## Invited Presentaions
 
 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens, Greece, 2024.
@@ -41,3 +32,11 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024). Athens
 Academic Conference of China Instrument and Control Society. Shanghai, China, 2022.
 
 - <span style="font-size: 90%;">*Lake surface roughness measurements from video images.*</span>
+
+## Skills
+- Programming Languages: Python, C++, Java, Matlab, SQL.
+- Deep Learning Frameworks: Proficient in PyTorch, TensorFlow, with experience in computer vision tasks. Experienced in supervised fine-tuning (SFT) of multimodal large models. Familiar with model deployment workflows.
+- High-Performance Computing: Practical experience with HPC clusters for deep learning model training and optimization.
+- Data Processing: Experienced in web scraping, data cleaning, analysis, database design, and data visualization using HTML, CSS, XML, JSON, and related tools.
+- Platforms \& Environments: Familiar with VS Code, Eclipse, Jupyter Notebook, JetBrains IDEs, and proficient in Windows, Linux, and MacOS operating systems.
+- Media \& Graphics: Experienced in video editing, image post-processing, and design using Adobe Photoshop, Premiere Pro, and Final Cut Pro.
